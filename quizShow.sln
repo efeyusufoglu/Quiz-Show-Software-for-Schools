@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32421.90
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "adminPanel", "adminPanel\adminPanel.csproj", "{94957BC8-0742-4091-96A0-E67B45FA7C73}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "competitorScreen", "competitorScreen\competitorScreen.csproj", "{1A8072E7-8608-48F8-B8EA-EFE733D13F57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "viewerPanel", "viewerPanel\viewerPanel.csproj", "{0E8963B8-926B-4B9B-9DDC-4BCF302888C3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94957BC8-0742-4091-96A0-E67B45FA7C73}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{94957BC8-0742-4091-96A0-E67B45FA7C73}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{94957BC8-0742-4091-96A0-E67B45FA7C73}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94957BC8-0742-4091-96A0-E67B45FA7C73}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1A8072E7-8608-48F8-B8EA-EFE733D13F57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1A8072E7-8608-48F8-B8EA-EFE733D13F57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1A8072E7-8608-48F8-B8EA-EFE733D13F57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E8963B8-926B-4B9B-9DDC-4BCF302888C3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8963B8-926B-4B9B-9DDC-4BCF302888C3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8963B8-926B-4B9B-9DDC-4BCF302888C3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0B57202E-2F5A-412C-ADC3-1E9EE8F4DBE0}
+	EndGlobalSection
+EndGlobal
